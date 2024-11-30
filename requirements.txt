@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+llama-parse
+openai
+beautifulsoup4
+requests
+python-dotenv
+streamlit
+llama-index-core
+llama-index-readers-file
+pydantic
+httpx
